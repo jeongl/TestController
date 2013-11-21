@@ -8,7 +8,7 @@ The included script will launch two instances of notepad and attempt to connect 
 ====================================================================================================================
 The squishrunner.exe accepts the following commands to run a test:
 
-squishrunner.exe <ip> <port> <test_suite_directory>
+squishrunner.exe "ip" "port" "test_suite_directory"
 
 To run this utility, Shell.py should be used as main() and run with all files in the same directory.
 ====================================================================================================================
@@ -33,7 +33,7 @@ to launch an application with the following syntax:
 
 Similarly, while tests are running, single tests can be run with the following syntax:
 
-run UserDefinedApp NA <path_to_application>
+run UserDefinedApp NA "path_to_application"
 ====================================================================================================================
 
 Lastly - any application can be launched and monitored, but they differ in returning polled status values.
