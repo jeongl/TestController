@@ -1,5 +1,0 @@
-1  -app UserDefinedApp  --port NA    --rundir   C:\\Windows\\system32\\notepad.exe
-2  -app UserDefinedApp  --port NA    --rundir   C:\\Windows\\system32\\notepad.exe
-3  -ip  192.167.2.2     --port 4323  --testdir  c:\\Users\\UserName\\Documents\\squish1\\suite_remote\\
-4  -ip  192.653.2.5     --port 4323  --testdir  c:\\Users\\UserName\\Documents\\squish1\\suite_remote\\
-
